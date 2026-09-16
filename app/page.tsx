@@ -8,7 +8,8 @@ import { Camera, RefreshCw, ShoppingCart, Check, ListChecks, Heart, Users, Clock
 // ----------------------------------------------------
 const ALLOWED_EMAILS = [
   "hira1916.hare@gmail.com",
-  "hiraishi19.16_.ryu.2@icloud.com", // 追加の許可アドレス
+  "hiraishi19.16_.ryu.2@icloud.com",
+  "23tb3301@student.gs.chiba-u.jp" // 追加の許可アドレス
 ];
 const COMMON_PASSWORD = "7240"; // 共通パスワード
 
