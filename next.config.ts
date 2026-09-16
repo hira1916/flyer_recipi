@@ -8,8 +8,11 @@ const withPWA = withPWAInit({
   skipWaiting: true,
 } as any);
 
-const nextConfig: NextConfig = {
+const nextConfig = {
   /* その他の設定項目 */
+  experimental: {
+    turbopack: {},
+  },
   allowedDevOrigins: [
     "192.168.10.108:3000",
     "192.168.10.108",
