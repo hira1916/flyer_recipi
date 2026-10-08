@@ -9,7 +9,12 @@ import { Camera, RefreshCw, ShoppingCart, Check, ListChecks, Heart, Users, Clock
 const ALLOWED_EMAILS = [
   "hira1916.hare@gmail.com",
   "hiraishi19.16_.ryu.2@icloud.com",
-  "23tb3301@student.gs.chiba-u.jp" // 追加の許可アドレス
+  "23tb3301@student.gs.chiba-u.jp",
+  "suzusaya0114@icloud.com" ,
+  "nana.100.ryumyu@icloud.com",
+  "miyu.to.chipndale@icloud.com",
+  "Tomo_7_Ryu@icloud.com ",
+  "23tb3302@student.gs.chiba-u.jp"// 追加の許可アドレス
 ];
 const COMMON_PASSWORD = "7240"; // 共通パスワード
 
